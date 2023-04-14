@@ -19,4 +19,6 @@ Running `python bambambam.py` does the following:
 
 4. Classify each line of the unseen data by leveraging BERT and the labels. Save a `bambambam.csv` with all scores, and also give the option (y/n) of printing out examples of top matches per label.
 
-![]('data/example.png')
+<br>
+<img src="data/example.png">
+
