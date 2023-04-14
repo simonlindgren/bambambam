@@ -17,4 +17,4 @@ Running `python bambambam.py` does the following:
 
 3. Read the unseen data, line by line, from a file named `data/unseen.txt`. The example data used here comes from the public domain novel [*The Legend of Sleepy Hollow*](https://www.gutenberg.org/ebooks/41) (1820) by Washington Irving.
 
-4. Classify each line of the unseen data by leveraging BERT and the labels.
+4. Classify each line of the unseen data by leveraging BERT and the labels. Save a `bambambam.csv` with all scores, and also 

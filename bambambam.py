@@ -7,6 +7,7 @@ by github.com/simonlindgren
 import glob
 import spacy
 import classy_classification
+import pandas as pd
 
 # Read label data
 label_files = glob.glob('labels/*.txt')
